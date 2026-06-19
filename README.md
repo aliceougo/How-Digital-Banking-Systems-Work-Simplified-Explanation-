@@ -1,6 +1,6 @@
 # How-Digital-Banking-Systems-Work-Simplified-Explanation-
 A simple breakdown of how digital banking systems work, explaining how mobile apps, APIs, core banking systems, fraud detection, and payment rails interact to process secure financial transactions in real time.
-🧩 Key Components in a Banking System
+Key Components in a Banking System
 1. Mobile Banking Application (Front-End)
 
 This is what the user interacts with:
@@ -63,14 +63,16 @@ Once the transaction is complete, the system:
 Sends SMS notifications
 Updates mobile app status
 Confirms success or failure to the user
-🔄 End-to-End Flow (Simple View)
+
+End-to-End Flow (Simple View)
 User initiates a transaction on mobile app
 API receives request
 Core banking system validates transaction
 Fraud detection system evaluates risk
 Payment rails process transfer (if approved)
 Confirmation is sent back to user
-⚠️ Key Insight
+
+ Key Insight
 
 A banking transaction is not “instant” in system terms — it is a carefully coordinated process between multiple systems working in real time.
 
